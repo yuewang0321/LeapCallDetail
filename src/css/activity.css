@@ -1,0 +1,40 @@
+.image {
+    width: 2em;
+    float: right;
+    padding-right: 2em;
+}
+
+.btn {
+    border-radius: 5em !important;
+    background-color: rgb(198, 223, 215) !important;
+    color: whitesmoke !important;
+}
+
+.btn :hover {
+    border-radius: 2em;
+    color: rgb(40, 54, 42);
+}
+
+.date{
+    text-align: center;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    color:rgba(53, 92, 50, 0.76);
+    font-size: 12px;
+    opacity: 0.6;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.detailInfo p {
+    font-size: 2em;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(26, 39, 25, 0.76);
+}
+
+#card {
+    border-color: rebeccapurple !important;
+    border-radius: 5em;
+}
